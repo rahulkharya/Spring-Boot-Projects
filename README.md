@@ -1,2 +1,2 @@
 # Spring-Boot-Projects
-Spring Boot Projects Repository
+Collection of my Spring Boot Projects
